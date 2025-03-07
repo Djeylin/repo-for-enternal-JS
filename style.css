@@ -1,0 +1,11 @@
+h1{
+    color: rgb(10, 60, 130);
+}
+
+button{
+    color: white;
+    background-color: rgb(119, 19, 212);
+    border-radius:20% ;
+    padding:10px ;
+    box-shadow: 5px 5px 20px rgb(127, 100, 100);
+}
